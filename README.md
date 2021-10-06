@@ -1,6 +1,6 @@
 # The Rosa
 <a href="https://imgur.com/je6rB8b"><img src="https://i.imgur.com/je6rB8b.gif" title="source: imgur.com" /></a>
-<img src="https://imgur.com/2KDVkWh" width="200px">
+<img src="https://i.imgur.com/2KDVkWh.gif" width="200px">
 
 
 **Description:**
