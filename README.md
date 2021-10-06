@@ -1,5 +1,10 @@
 # The Rosa
+<a href="https://imgur.com/je6rB8b"><img src="https://i.imgur.com/je6rB8b.gif" title="source: imgur.com" /></a>
+[for github](https://i.imgur.com/2KDVkWh.gifv)
 <a href="https://imgur.com/2KDVkWh"><img src="https://i.imgur.com/2KDVkWh.gif" title="source: imgur.com" /></a>
+[img]https://i.imgur.com/2KDVkWh.gif[/img]
+[url=https://imgur.com/2KDVkWh][img]http://i.imgur.com/2KDVkWh.gif[/img][/url]
+
 
 
 **Description:**
